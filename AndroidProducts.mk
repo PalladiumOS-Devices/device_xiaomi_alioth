@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_alioth.mk
+    $(LOCAL_DIR)/palladium_alioth.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_alioth-user \
-    xtended_alioth-userdebug \
-    xtended_alioth-eng
+    palladium_alioth-user \
+    palladium_alioth-userdebug \
+    palladium_alioth-eng
